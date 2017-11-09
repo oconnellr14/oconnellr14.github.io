@@ -1,0 +1,38 @@
+html, body {
+    margin: 0px;
+    height: 100%;
+
+}
+
+header{
+    text-align: center;
+    background-color: yellow;
+}
+
+header h1{
+    font-size: 2em;
+    color: #1c1a1a;
+}
+
+body{
+    display: flex;
+}
+
+
+main{
+    font-size: .5em;
+    flex:1;
+}
+main img {
+    width: 600px;
+    height: 400px;
+}
+
+.art_1 p{
+    background-color: #D3D3D3;
+}
+
+aside{
+    font-size: 1em
+    flex:1;
+}
